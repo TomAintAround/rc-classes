@@ -1,4 +1,6 @@
 .direnv
+*.pcap
+*.log
 
 # Prerequisites
 *.d
