@@ -1,0 +1,7 @@
+755:0:0:/home/tcp_server
+755:0:0:/home/udp_server
+644:0:0:/home/.gns3_perms
+755:1000:1001:/home/tcp_server.c
+644:1000:1001:/home/psk.txt
+755:1000:1001:/home/udp_server.c
+777:0:0:/home
