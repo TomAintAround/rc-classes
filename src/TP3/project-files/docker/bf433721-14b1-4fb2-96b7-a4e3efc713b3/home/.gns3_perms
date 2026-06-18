@@ -1,0 +1,7 @@
+644:1000:1001:/home/powerudp.h
+644:1000:1001:/home/psk_key.txt
+644:1000:1001:/home/server.c
+644:0:0:/home/.gns3_perms
+755:0:0:/home/client
+644:1000:1001:/home/client.c
+777:0:0:/home
